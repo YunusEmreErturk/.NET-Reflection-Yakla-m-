@@ -1,0 +1,14 @@
+C:\Users\YunusEmre\source\repos\ReflectionKavrami\ReflectionKavrami\bin\Debug\ReflectionKavrami.exe.config
+C:\Users\YunusEmre\source\repos\ReflectionKavrami\ReflectionKavrami\bin\Debug\ReflectionKavrami.exe
+C:\Users\YunusEmre\source\repos\ReflectionKavrami\ReflectionKavrami\bin\Debug\ReflectionKavrami.pdb
+C:\Users\YunusEmre\source\repos\ReflectionKavrami\ReflectionKavrami\obj\Debug\ReflectionKavrami.csprojAssemblyReference.cache
+C:\Users\YunusEmre\source\repos\ReflectionKavrami\ReflectionKavrami\obj\Debug\ReflectionKavrami.csproj.CoreCompileInputs.cache
+C:\Users\YunusEmre\source\repos\ReflectionKavrami\ReflectionKavrami\obj\Debug\ReflectionKavrami.exe
+C:\Users\YunusEmre\source\repos\ReflectionKavrami\ReflectionKavrami\obj\Debug\ReflectionKavrami.pdb
+F:\Araştırmalarım\ReflectionKavrami\ReflectionKavrami\obj\Debug\ReflectionKavrami.csprojAssemblyReference.cache
+F:\Araştırmalarım\ReflectionKavrami\ReflectionKavrami\obj\Debug\ReflectionKavrami.csproj.CoreCompileInputs.cache
+F:\Araştırmalarım\ReflectionKavrami\ReflectionKavrami\obj\Debug\ReflectionKavrami.exe
+F:\Araştırmalarım\ReflectionKavrami\ReflectionKavrami\obj\Debug\ReflectionKavrami.pdb
+F:\Araştırmalarım\ReflectionKavrami\ReflectionKavrami\bin\Debug\ReflectionKavrami.exe.config
+F:\Araştırmalarım\ReflectionKavrami\ReflectionKavrami\bin\Debug\ReflectionKavrami.exe
+F:\Araştırmalarım\ReflectionKavrami\ReflectionKavrami\bin\Debug\ReflectionKavrami.pdb
